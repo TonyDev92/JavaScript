@@ -1,0 +1,24 @@
+{
+  "name": "ejercicios-de-javascript",
+  "version": "1.0.0",
+  "description": "Bloque de Ejercicios con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "saluda":"Sayhello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyDev92/JavaScript.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Ejercicios"
+  ],
+  "author": "Tony Q. Carrasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyDev92/JavaScript/issues"
+  },
+  "homepage": "https://github.com/TonyDev92/JavaScript#readme"
+}
